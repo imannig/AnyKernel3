@@ -10,11 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
-device.name5=
+device.name1=citrus
+device.name2=lime
+device.name3=lemon
+device.name4=pomelo
+device.name5=juice
 supported.versions=
 supported.patchlevels=
 '; } # end properties
