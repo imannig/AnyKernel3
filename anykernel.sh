@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=ImpactShadow by imannig
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=lime
 device.name3=lemon
 device.name4=pomelo
 device.name5=juice
-supported.versions=
+supported.versions=11.0-12.0
 supported.patchlevels=
 '; } # end properties
 
