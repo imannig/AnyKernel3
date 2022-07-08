@@ -10,12 +10,14 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=citrus
-device.name2=lime
-device.name3=lemon
-device.name4=pomelo
-device.name5=juice
-supported.versions=11.0-12.0
+device.name1=on7xelte
+device.name2=on7xeltedd
+device.name3=on7xeltekl
+device.name4=on7xeltekk
+device.name5=on7xelteks
+device.name6=on7xelteub
+device.name7=on7xeltezt
+supported.versions=9.0-11.0
 supported.patchlevels=
 '; } # end properties
 
